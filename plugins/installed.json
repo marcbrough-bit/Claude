@@ -1,0 +1,17 @@
+{
+  "installed_plugins": [
+    {
+      "name": "marketing-skills",
+      "version": "1.0.0",
+      "marketplace": "coreyhaines31/marketingskills",
+      "installed_at": "2026-03-25T00:00:00Z",
+      "skills": [
+        "content-strategy",
+        "seo-optimization",
+        "email-campaigns",
+        "social-media",
+        "analytics-reporting"
+      ]
+    }
+  ]
+}
