@@ -1,0 +1,34 @@
+{
+  "name": "marketing-skills",
+  "version": "1.0.0",
+  "description": "A comprehensive suite of marketing skills for content strategy, SEO, email campaigns, social media, and analytics.",
+  "author": "coreyhaines31",
+  "source": "coreyhaines31/marketingskills",
+  "skills": {
+    "content-strategy": {
+      "name": "Content Strategy",
+      "description": "Plan and develop content strategies aligned with business goals, target audiences, and brand voice.",
+      "commands": ["analyze-audience", "generate-content-calendar", "topic-research"]
+    },
+    "seo-optimization": {
+      "name": "SEO Optimization",
+      "description": "Optimize content for search engines with keyword research, on-page SEO, and technical recommendations.",
+      "commands": ["keyword-research", "audit-seo", "optimize-content"]
+    },
+    "email-campaigns": {
+      "name": "Email Campaigns",
+      "description": "Design and optimize email marketing campaigns with subject lines, templates, and A/B testing strategies.",
+      "commands": ["draft-email", "generate-subject-lines", "plan-drip-campaign"]
+    },
+    "social-media": {
+      "name": "Social Media",
+      "description": "Create and manage social media content across platforms with scheduling and engagement strategies.",
+      "commands": ["generate-posts", "plan-campaign", "analyze-engagement"]
+    },
+    "analytics-reporting": {
+      "name": "Analytics & Reporting",
+      "description": "Analyze marketing performance data and generate actionable reports and dashboards.",
+      "commands": ["generate-report", "track-kpis", "analyze-funnel"]
+    }
+  }
+}
