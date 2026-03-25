@@ -1,0 +1,23 @@
+{
+  "name": "slack-integration",
+  "version": "1.0.0",
+  "description": "Slack integration for sending messages, managing channels, and automating notifications from Claude Code workflows.",
+  "author": "marcbrough-bit",
+  "skills": {
+    "send-message": {
+      "name": "Send Message",
+      "description": "Send messages to Slack channels or users with rich formatting and attachments.",
+      "commands": ["send-text", "send-block", "send-thread-reply"]
+    },
+    "manage-channels": {
+      "name": "Manage Channels",
+      "description": "Create, archive, and configure Slack channels for team workflows.",
+      "commands": ["create-channel", "set-topic", "invite-members"]
+    },
+    "notifications": {
+      "name": "Notifications",
+      "description": "Configure automated notifications for build status, deployments, and workflow events.",
+      "commands": ["setup-webhook", "configure-alerts", "schedule-digest"]
+    }
+  }
+}
